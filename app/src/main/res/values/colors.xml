@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#d1d5e0</color>
+    <color name="green">#3acb01</color>
+    <color name="blue">#0077A6</color>
+    <color name="bg_color">#F2F6F9</color>
+    <color name="text_color">#FF000000</color>
+    <color name="a">#E1E8F8</color>
+    <color name="b">#FDF1D9</color>
+    <color name="c">#FEE4E5</color>
+    <color name="d">#DCF0E5</color>
+    <color name="red">#D32B2B</color>
+    <color name="checkbox_color">#6d2150</color>
+    <color name="dialog_bg_color">#EAD1B2</color>
+    <color name="dark_theme_tint">#262626</color>
+    <color name="baner_color">#FF5364</color>
+
+
+    <color name="primaryTextColor">@color/white</color>
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="main50">#dfebff</color>
+    <color name="main800">#6B122F47</color>
+</resources>

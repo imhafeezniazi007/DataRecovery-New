@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    0 =========================
+    <string name="app_name">數據恢復</string>
+
+
+    <string name="hello_blank_fragment">你好空白片段</string>
+
+    <string name="what_is_root">什麼是根？</string>
+
+    <string name="language">語言</string>
+
+    <string name="share">分享</string>
+
+    <string name="rate_us">評價我們</string>
+
+    <string name="other_apps">其他應用</string>
+
+    <string name="how_to_use">如何使用？</string>
+
+    <string name="report_a_problem">報告一個問題</string>
+
+    <string name="about">關於</string>
+
+    <string name="privacy_policy">隱私政策</string>
+
+    <string name="data_recovery">數據恢復</string>
+
+    <string name="recover_images">恢復圖像</string>
+
+    <string name="recover_documents">恢復文件</string>
+
+    <string name="recover_audios">恢復音頻</string>
+
+    <string name="recover_videos">恢復視頻</string>
+
+    <string name="saved">已保存</string>
+
+    <string name="phone_storage">手機存儲</string>
+
+    <string name="clean_up">清理</string>
+
+    <string name="free_storage">免費存儲</string>
+
+    <string name="used_storage">使用過的存儲</string>
+
+    <string name="clean_junk">清理垃圾</string>
+
+    <string name="clean_up_photos">清理照片</string>
+
+    <string name="backup">備份</string>
+
+    <string name="sign_in">登入</string>
+
+    <string name="sign_in_to_google_drive_for_the_data_backup_n_upload_your_restored_data_to_avoid_data_loss">登錄 Google Drive 進行數據備份。\n上傳恢復的數據以避免數據丟失</string>
+
+    <string name="premium_version">高級版</string>
+
+    <string name="scan_images">掃描圖像</string>
+
+    <string name="scan_audios">掃描音頻</string>
+
+    <string name="scan_vedios">掃描視頻</string>
+
+    <string name="scan_documents">掃描文件</string>
+
+    <string name="no_item_selected">沒有選擇項目</string>
+
+    <string name="long_press_to_select_an_image">長按選擇圖片</string>
+
+    <string name="home">家</string>
+
+    <string name="recover">恢復</string>
+
+    <string name="start_scanning">開始掃描</string>
+
+    <string name="clean_up_vedios">清理視頻</string>
+
+    <string name="saved_images">保存的圖像</string>
+
+    <string name="saved_audios">保存的音頻</string>
+
+    <string name="saved_vedios">保存的視頻</string>
+
+    <string name="saved_documents">保存的文檔</string>
+
+    <string name="recover_image">恢復圖像</string>
+
+    <string name="delete_permanently">永久刪除</string>
+
+    <string name="AUTH_ID">AIzaSyAQg7VQ3YwBW4Gpn1OelvmS6xDqyRAwSJc</string>
+
+    <string name="all_scan">全部掃描</string>
+
+    <string name="images">圖片</string>
+
+    <string name="contacts">聯繫人</string>
+
+    <string name="audios">音頻</string>
+
+    <string name="videos">影片</string>
+
+    <string name="group_no">組號</string>
+
+    <string name="image_name">圖片名稱</string>
+
+    <string name="image_size">圖片大小</string>
+
+    <string name="image_path">圖片路徑</string>
+
+    <string name="no_duplicates_found">沒有找到重複項！</string>
+
+    <string name="scan_all">全部掃描</string>
+
+    <string name="delete">刪除</string>
+
+    <string name="ok">好的</string>
+
+    <string name="total_files_scanned">掃描的文件總數</string>
+
+    <string name="no_files_found">找不到文件。</string>
+
+    <string name="yes">是的</string>
+
+    <string name="no">不</string>
+
+    <string name="do_you_want_to_delete_junk_files">您要刪除垃圾文件嗎？</string>
+
+    <string name="clean_junk_files">成功清除垃圾文件。</string>
+
+    <string name="something_went_wrong">發生錯誤。請稍後再試...</string>
+
+    <string name="files_scanned">掃描的文件</string>
+
+    <string name="files">文件</string>
+
+    <string name="audios_found">找到音頻</string>
+
+    <string name="files_found">找到的文件</string>
+
+    <string name="allow_permission_storage">允許存儲訪問權限！</string>
+
+    <string name="recoverable_files_found">找到可恢復的文件</string>
+
+    <string name="snackbar_text">“恢復成功\n位置：/storage/emulated/0/pictures/\nDataRecovery”</string>
+
+    <string name="try_again_later">發生錯誤。請稍後再試...</string>
+
+    <string name="no_image_selected">未選擇圖像</string>
+
+    <string name="all_files_deleted">所有文件刪除成功</string>
+
+    <string name="no_file_selected">未選擇文件</string>
+
+    <string name="drive_login_error">登錄錯誤 - 未登錄</string>
+
+    <string name="documents_found">找到文件</string>
+
+    <string name="files_uploaded">文件已上傳成功</string>
+
+    <string name="images_found">找到圖片</string>
+
+    <string name="recover_image_successfully">恢復鏡像成功</string>
+
+    <string name="image_deleted_successfully">圖片刪除成功</string>
+
+    <string name="all_files_recover_successfully">所有文件恢復成功</string>
+
+    <string name="videos_found">找到的視頻</string>
+
+    <string name="allow_permission_for_read_contacts">允許讀取聯繫人的權限！</string>
+
+    <string name="video_completed">視頻完成</string>
+
+    <string name="error_playing_error">播放視頻時出錯！！！</string>
+
+    <string name="group">團體</string>
+
+    <string name="sort_by_size_asc">按大小排序（升序）</string>
+
+    <string name="sort_by_size_desc">按大小排序（降序）</string>
+
+    <string name="sort_by_date_asc">按日期排序（升序）</string>
+
+    <string name="sort_by_date_desc">按日期排序（降序）</string>
+
+    <string name="scanning_please_wait">掃描中請稍候</string>
+
+    <string name="got_it">知道了！</string>
+
+    <string name="delete_hint">長按選擇多張圖片，點擊刪除按鈕永久刪除。</string>
+
+    <string name="recover_deleted_photos_videos">恢复已删除的照片和照片视频</string>
+    <string name="version">版本</string>
+    <string name="contact_us">联系我们</string>
+    <string name="welcome_to_data_recovery_app_the_ultimate_solution_for_recovering_and_restoring_deleted_photos_videos_audios_and_contacts_on_your_phone_with_our_powerful_app_you_can_effortlessly_retrieve_your_precious_memories_and_important_data_we_also_offer_a_seamless_backup_feature_to_keep_your_content_safe_our_user_friendly_interface_and_advanced_scanning_capabilities_ensure_a_hassle_free_experience_even_for_non_tech_savvy_users_your_privacy_and_security_are_our_top_priorities_and_we_handle_your_data_with_utmost_care_join_our_satisfied_users_and_download_data_recovery_app_today_to_never_worry_about_losing_your_valuable_content_again">欢迎使用数据恢复应用程序，这是恢复和恢复手机上已删除的照片、视频、音频和联系人的终极解决方案。借助我们强大的应用程序，您可以轻松检索您的珍贵记忆和重要数据。我们还提供无缝备份功能以确保您的内容安全。我们友好的用户界面和先进的扫描功能确保即使对于不懂技术的用户也能提供无忧的体验。您的隐私和安全是我们的首要任务，我们会极其谨慎地处理您的数据。立即加入我们满意的用户并下载数据恢复应用程序，再也不用担心丢失宝贵的内容。</string>
+    <string name="close">关闭</string>
+    <string name="duplicate_file_remover">重复文件删除器</string>
+    <string name="what_is_rooting">什么是生根？</string>
+    <string name="rooting_involves_gaining_administrative_privileges_on_an_android_device_allowing_users_to_access_and_modify_system_files_and_settings_it_is_typically_achieved_through_the_use_of_specialized_software_or_tools_however_there_is_a_risk_of_root_attempts_failing_resulting_in_the_inability_to_gain_root_access_successfully">Root 涉及获得 Android 设备的管理权限，允许用户访问和修改系统文件和设置。它通常是通过使用专门的软件或工具来实现的。但是，存在 root 尝试失败的风险，导致无法成功获得 root 访问权限。</string>
+    <string name="benefits">好处：</string>
+    <string name="unlocking_advanced_customization_and_system_level_access">解锁高级定制和系统级访问。</string>
+    <string name="risks">风险：</string>
+    <string name="potential_for_security_vulnerabilities_and_voiding_device_warranty">潜在的安全漏洞和导致设备保修失效的可能性。</string>
+    <string name="process">过程：</string>
+    <string name="using_software_or_tools_to_attain_root_access">使用软件或工具获得 root 访问权限。</string>
+    <string name="implications">影响：</string>
+    <string name="ability_to_modify_system_files_install_custom_roms_and_use_root_only_apps">能够修改系统文件、安装自定义 ROM 以及使用仅限 root 的应用程序。</string>
+    <string name="considerations">注意事项：</string>
+    <string name="researching_device_compatibility_and_following_instructions_carefully">研究设备兼容性并仔细遵循说明。</string>
+    <string name="data_recovery_pro">数据恢复专业版</string>
+    <string name="a_data_recovery_application_is_designed_to_assist_users_in_retrieving_recently_deleted_media_files_upon_initiating_a_scan_the_application_diligently_examines_the_storage_device_and_retrieves_all_available_files_including_both_deleted_and_non_deleted_ones_subsequently_the_user_is_required_to_identify_and_locate_the_specific_deleted_file_from_the_comprehensive_list_of_retrieved_files_this_process_necessitates_thorough_scrutiny_to_pinpoint_and_recover_the_desired_deleted_media_item_among_the_entirety_of_retrieved_data">数据恢复应用程序旨在帮助用户检索最近删除的媒体文件。启动扫描后，应用程序会仔细检查存储设备并检索所有可用文件，包括已删除和未删除的文件。随后，用户需要从检索到的文件的综合列表中识别并定位特定的已删除文件。此过程需要进行彻底的审查，以在整个检索到的数据中查明并恢复所需的已删除媒体项目。</string>
+    <string name="next">下一个</string>
+    <string name="prev">上一篇</string>
+    <string name="done">完毕</string>
+    <string name="step_1">步骤1</string>
+    <string name="go_to_the_recover_tab_and_choose_the_category_to_recover">转到“恢复”选项卡并选择要恢复的类别。</string>
+    <string name="step_2">第2步</string>
+    <string name="step_3">步骤3</string>
+    <string name="long_press_to_select_multiple_files_then_tap_recover_to_save">长按选择多个文件，然后点击“恢复”进行保存。</string>
+    <string name="tap_image_to_preview_recover_or_delete_individually">点击图像可单独预览、恢复或删除。</string>
+    <string name="let_s_start">开始吧</string>
+    <string name="start_like_a_pro">像专业人士一样开始</string>
+    <string name="unlock_all_features">解锁所有功能</string>
+    <string name="basic">基本的</string>
+    <string name="premium">优质的</string>
+    <string name="gallery_recovery">画廊恢复</string>
+    <string name="themes">主题</string>
+    <string name="cloud_backup">云备份</string>
+    <string name="no_ads">无广告</string>
+    <string name="remove_duplicate_files">删除重复文件</string>
+    <string name="pkr_16_2000_year_after_free_7_day_trial">免费试用 7 天后 PKR 16,2000/年</string>
+    <string name="start_free_trial">开启免费体验</string>
+    <string name="select_language">选择语言</string>
+    <string name="continueee">继续</string>
+    <string name="duplicate">复制</string>
+    <string name="saved_photos">保存的照片</string>
+    <string name="switchhh">转变</string>
+    <string name="files_deleted_successfully">文件删除成功..</string>
+    <string name="please_select_language">请选择语言</string>
+    <string name="watch_ad_to_view_all_recovered_items">观看广告以查看所有已恢复的物品</string>
+    <string name="unlock_duplicate_nfile_remover_feature">解锁重复\n文件删除器功能</string>
+    <string name="this_is_a_premium_feature_but_we_have_a_special_deal_for_you_watch_and_ad_to_unlock_this_feature_or_be_a_premium_member_to_get_all_features">这是一项高级功能，但我们为您提供特别优惠！观看广告以解锁此功能，或成为高级会员以获取所有功能。</string>
+    <string name="or">或者</string>
+    <string name="unlimited_access_to_all_premium_tools">无限制地访问所有高级工具</string>
+    <string name="_50_off">50折优惠</string>
+    <string name="exit_app">请再次点击“BACK”退出</string>
+    <string name="click_here_to_view_more_items">单击此处查看更多项目</string>
+    <string name="tap_again_to_exit">再次点击即可退出！</string>
+    <string name="loading_ad">加载广告</string>
+    <string name="unlock">开锁</string>
+    <string name="storage">贮存</string>
+    <string name="watch_ad_to_view_all_themes">观看广告查看所有主题</string>
+
+    <string name="life_time"> 一生一世 (Yīshēng yīshì)</string>
+    <string name="billed_once">一次性付款 (Yī cìxìng fùkuǎn)</string>
+    <string name="save_50"> 節省50% (Jiéshěng 50%)</string>
+    <string name="recover_data">恢復數據 (Huīfù shùjù)</string>
+    <string name="unlock_vault_of_memories">解鎖回憶寶庫 (Jiěsuǒ huíyì bǎokù)</string>
+    <string name="recover_pictures_video_audios_and_data_in_all_formats">恢復所有格式的圖片、視頻、音頻和數據 (Huīfù suǒyǒu géshì de túpiàn, shìpín, yīnpín hé shùjù)</string>
+    <string name="identifying_copies_while_you_take_a_break">在你休息的時候識別副本 (Zài nǐ xiūxí de shíhòu shíbié fùběn)</string>
+    <string name="tap_to_exit">點擊退出！ (Diǎnjī tuìchū!)</string>
+</resources>

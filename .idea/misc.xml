@@ -1,0 +1,24 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Aqib_Javed/Personal/RecoveryApp/DataRecovery/app/src/main/res/layout/activity_main.xml" value="0.11778115501519756" />
+        <entry key="..\:/Aqib_Javed/Personal/RecoveryApp/DataRecovery/app/src/main/res/layout/activity_pro.xml" value="0.2421875" />
+        <entry key="..\:/Aqib_Javed/Personal/RecoveryApp/DataRecovery/app/src/main/res/layout/activity_splash.xml" value="0.2421875" />
+        <entry key="..\:/Aqib_Javed/Personal/RecoveryApp/DataRecovery/app/src/main/res/layout/fragment_recover.xml" value="0.2421875" />
+        <entry key="..\:/Aqib_Javed/Personal/RecoveryApp/DataRecovery/app/src/main/res/layout/loading_ad_dialog.xml" value="0.2421875" />
+        <entry key="..\:/Aqib_Javed/Personal/RecoveryApp/DataRecovery/app/src/main/res/layout/loading_config_dialog.xml" value="0.2421875" />
+        <entry key="..\:/Aqib_Javed/Personal/RecoveryApp/DataRecovery/app/src/main/res/layout/loading_dialog.xml" value="0.11778115501519756" />
+        <entry key="..\:/Aqib_Javed/Personal/RecoveryApp/DataRecovery/app/src/main/res/layout/loading_dialog_progress.xml" value="0.2421875" />
+        <entry key="..\:/Aqib_Javed/Personal/RecoveryApp/DataRecovery/app/src/main/res/layout/premium_layout.xml" value="0.2421875" />
+        <entry key="..\:/Aqib_Javed/Personal/RecoveryApp/DataRecovery/app/src/main/res/layout/watchad_dialog.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

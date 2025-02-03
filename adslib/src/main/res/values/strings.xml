@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="interstitial_ad_id"></string>
+    <string name="rewarded_ad_id"></string>
+    <string name="banner_ad_id"></string>
+
+    <string name="test_interstitial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="test_rewarded_ad_id"></string>
+    <string name="test_banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="loading_ad">Loading Ad</string>
+</resources>

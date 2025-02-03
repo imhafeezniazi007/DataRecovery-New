@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mainLayout"
+    android:background="?bg_gradient"
+    tools:context=".views.activities.DuplicateActivity">
+
+    <ImageView
+        android:id="@+id/backIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_15sdp"
+        android:src="@drawable/ic_backarrow"
+        android:tint="?custom_black"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/titleTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="@string/images"
+        android:textColor="?custom_black"
+        android:textSize="@dimen/_14ssp"
+        app:layout_constraintBottom_toBottomOf="@id/backIV"
+        app:layout_constraintStart_toEndOf="@id/backIV"
+        app:layout_constraintTop_toTopOf="@id/backIV" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/duplicateRV"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginVertical="@dimen/_5sdp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintBottom_toTopOf="@+id/deletelayout"
+        app:layout_constraintTop_toBottomOf="@id/backIV" />
+
+
+    <TextView
+        android:id="@+id/noTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:elevation="@dimen/_2sdp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="@string/no_duplicates_found"
+        android:textColor="?text_color"
+        android:textSize="@dimen/_12ssp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@id/duplicateRV"
+        app:layout_constraintEnd_toEndOf="@id/duplicateRV"
+        app:layout_constraintStart_toStartOf="@id/duplicateRV"
+        app:layout_constraintTop_toTopOf="@id/duplicateRV" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/deletelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_20sdp"
+        android:background="@drawable/rounded_bg"
+        android:backgroundTint="@color/red"
+        android:paddingVertical="@dimen/_10sdp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_bold"
+            android:gravity="center"
+            android:text="@string/delete"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_10ssp"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

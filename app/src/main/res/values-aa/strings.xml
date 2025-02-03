@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dataherwinning</string>
+
+
+    <string name="hello_blank_fragment">Hallo leë fragment</string>
+
+    <string name="what_is_root">Wat is wortel?</string>
+
+    <string name="language">Taal</string>
+
+    <string name="share">Deel</string>
+
+    <string name="rate_us">Gradeer ons</string>
+
+    <string name="other_apps">Ander toepassings</string>
+
+    <string name="how_to_use">Hoe om te gebruik?</string>
+
+    <string name="report_a_problem">Rapporteer n probleem</string>
+
+    <string name="about">Oor</string>
+
+    <string name="privacy_policy">Privaatheidsbeleid</string>
+
+    <string name="data_recovery">Dataherwinning</string>
+
+    <string name="recover_images">Herstel prente</string>
+
+    <string name="recover_documents">Herwin dokumente</string>
+
+    <string name="recover_audios">Herstel oudios</string>
+
+    <string name="recover_videos">Herstel videos</string>
+
+    <string name="saved">Gestoor</string>
+
+    <string name="phone_storage">Telefoonberging</string>
+
+    <string name="clean_up">Maak skoon</string>
+
+    <string name="free_storage">Gratis berging</string>
+
+    <string name="used_storage">Gebruikte berging</string>
+
+    <string name="clean_junk">Maak rommel skoon</string>
+
+    <string name="clean_up_photos">Maak fotos skoon</string>
+
+    <string name="backup">Ondersteuning</string>
+
+    <string name="sign_in">Meld aan</string>
+
+    <string name="sign_in_to_google_drive_for_the_data_backup_n_upload_your_restored_data_to_avoid_data_loss">Meld by Google Drive aan vir die data-rugsteun.\nLaai jou herstelde data op om dataverlies te vermy</string>
+
+    <string name="premium_version">Premium weergawe</string>
+
+    <string name="scan_images">Skandeer prente</string>
+
+    <string name="scan_audios">Skandeer oudios</string>
+
+    <string name="scan_vedios">Skandeer Vedios</string>
+
+    <string name="scan_documents">Skandeer dokumente</string>
+
+    <string name="no_item_selected">Geen item gekies nie</string>
+
+    <string name="long_press_to_select_an_image">Druk lank om n prent te kies</string>
+
+    <string name="home">Tuis</string>
+
+    <string name="recover">Herstel</string>
+
+    <string name="start_scanning">Begin skandering</string>
+
+    <string name="clean_up_vedios">Maak videos skoon</string>
+
+    <string name="saved_images">Gestoorde prente</string>
+
+    <string name="saved_audios">Gestoorde oudios</string>
+
+    <string name="saved_vedios">Gestoorde Vedios</string>
+
+    <string name="saved_documents">Gestoorde dokumente</string>
+
+    <string name="recover_image">Herstel prent</string>
+
+    <string name="delete_permanently">Vee Permanent uit</string>
+
+    <string name="AUTH_ID">AIzaSyAQg7VQ3YwBW4Gpn1OelvmS6xDqyRAwSJc</string>
+
+    <string name="all_scan">Alle Skandeer</string>
+
+    <string name="images">Beelde</string>
+
+    <string name="contacts">Kontakte</string>
+
+    <string name="audios">Oudios</string>
+
+    <string name="videos">Videos</string>
+
+    <string name="group_no">Groep No</string>
+
+    <string name="image_name">Beeld Naam</string>
+
+    <string name="image_size">Beeld grootte</string>
+
+    <string name="image_path">Beeldpad</string>
+
+    <string name="no_duplicates_found">Geen duplikate gevind nie!</string>
+
+    <string name="scan_all">Skandeer alles</string>
+
+    <string name="delete">Vee uit</string>
+
+    <string name="ok">Goed</string>
+
+    <string name="total_files_scanned">Totale lêers geskandeer</string>
+
+    <string name="no_files_found">Geen lêers gevind nie.</string>
+
+    <string name="yes">Ja</string>
+
+    <string name="no">Geen</string>
+
+    <string name="do_you_want_to_delete_junk_files">Wil jy gemorslêers uitvee?</string>
+
+    <string name="clean_junk_files">Maak rommellêers suksesvol skoon.</string>
+
+    <string name="something_went_wrong">Iets het verkeerd geloop. Probeer asseblief later weer...</string>
+
+    <string name="files_scanned">Lêers geskandeer</string>
+
+    <string name="files">Lêers</string>
+
+    <string name="audios_found">Oudios gevind</string>
+
+    <string name="files_found">Lêers gevind</string>
+
+    <string name="allow_permission_storage">Laat toestemming vir bergingtoegang toe!</string>
+
+    <string name="recoverable_files_found">Herstelbare lêers gevind</string>
+
+    <string name="snackbar_text">"Suksesvol herwin\nLigging:/berging/emulated/0/prente/\nDataherwinning"</string>
+
+    <string name="try_again_later">Iets het verkeerd geloop. Probeer asseblief later weer...</string>
+
+    <string name="no_image_selected">Geen prent gekies nie</string>
+
+    <string name="all_files_deleted">Alle lêers is suksesvol uitgevee</string>
+
+    <string name="no_file_selected">Geen lêer gekies nie</string>
+
+    <string name="drive_login_error">Aanmeldingfout - nie aangemeld nie</string>
+
+    <string name="documents_found">Dokumente gevind</string>
+
+    <string name="files_uploaded">Lêers is suksesvol opgelaai</string>
+
+    <string name="images_found">Prente gevind</string>
+
+    <string name="recover_image_successfully">Herstel prent suksesvol</string>
+
+    <string name="image_deleted_successfully">Prent is suksesvol uitgevee</string>
+
+    <string name="all_files_recover_successfully">Alle lêers herstel suksesvol</string>
+
+    <string name="videos_found">Videos gevind</string>
+
+    <string name="allow_permission_for_read_contacts">Laat toestemming toe om kontakte te lees!</string>
+
+    <string name="video_completed">Video voltooi</string>
+
+    <string name="error_playing_error">n Fout het voorgekom tydens die speel van video !!!</string>
+
+    <string name="group">Groep</string>
+
+    <string name="sort_by_size_asc">Sorteer volgens grootte (asc)</string>
+
+    <string name="sort_by_size_desc">Sorteer volgens grootte (beskrywing)</string>
+
+    <string name="sort_by_date_asc">Sorteer volgens datum (asc)</string>
+
+    <string name="sort_by_date_desc">Sorteer volgens datum (beskrywing)</string>
+
+    <string name="scanning_please_wait">Skandeer, wag asseblief</string>
+
+    <string name="got_it">HET DIT!</string>
+
+    <string name="delete_hint">Raak en hou om veelvuldige beelde te kies, en tik dan op verwyder-knoppie om hulle permanent uit te vee.</string>
+
+
+
+    <string name="recover_deleted_photos_videos">Herstel geskrap fotos &amp; Videos</string>
+    <string name="version">Weergawe</string>
+    <string name="contact_us">Kontak Ons</string>
+    <string name="welcome_to_data_recovery_app_the_ultimate_solution_for_recovering_and_restoring_deleted_photos_videos_audios_and_contacts_on_your_phone_with_our_powerful_app_you_can_effortlessly_retrieve_your_precious_memories_and_important_data_we_also_offer_a_seamless_backup_feature_to_keep_your_content_safe_our_user_friendly_interface_and_advanced_scanning_capabilities_ensure_a_hassle_free_experience_even_for_non_tech_savvy_users_your_privacy_and_security_are_our_top_priorities_and_we_handle_your_data_with_utmost_care_join_our_satisfied_users_and_download_data_recovery_app_today_to_never_worry_about_losing_your_valuable_content_again">Welkom by Data Recovery App, die uiteindelike oplossing vir die herstel en herstel van geskrapte fotos, videos, oudios en kontakte op jou foon. Met ons kragtige toepassing kan jy moeiteloos jou kosbare herinneringe en belangrike data ophaal. Ons bied ookn naatlose rugsteunfunksie om jou inhoud veilig te hou. Ons gebruikersvriendelike koppelvlak en gevorderde skanderingsvermoëns versekern moeitevrye ervaring, selfs vir nie-tegnologie-vaardige gebruikers. Jou privaatheid en sekuriteit is ons topprioriteite, en ons hanteer jou data met die grootste sorg. Sluit aan by ons tevrede gebruikers en laai vandag die Data Recovery-toepassing af om nooit weer bekommerd te wees dat jy jou waardevolle inhoud verloor nie.</string>
+    <string name="close">Naby</string>
+    <string name="duplicate_file_remover">Duplikaatlêerverwyderaar</string>
+    <string name="what_is_rooting">Wat is wortels?</string>
+    <string name="rooting_involves_gaining_administrative_privileges_on_an_android_device_allowing_users_to_access_and_modify_system_files_and_settings_it_is_typically_achieved_through_the_use_of_specialized_software_or_tools_however_there_is_a_risk_of_root_attempts_failing_resulting_in_the_inability_to_gain_root_access_successfully">Worteling behels die verkryging van administratiewe voorregte op n Android-toestel, wat gebruikers in staat stel om toegang tot stelsellêers en instellings te verkry en dit te verander. Dit word tipies bereik deur die gebruik van gespesialiseerde sagteware of gereedskap. Daar is egter n risiko dat wortelpogings misluk, wat lei tot die onvermoë om worteltoegang suksesvol te verkry.</string>
+    <string name="benefits">Voordele:</string>
+    <string name="unlocking_advanced_customization_and_system_level_access">Ontsluit gevorderde aanpassing en toegang op stelselvlak.</string>
+    <string name="risks">Risikos:</string>
+    <string name="potential_for_security_vulnerabilities_and_voiding_device_warranty">Potensiaal vir sekuriteitskwesbaarhede en toestelwaarborg vernietig.</string>
+    <string name="process">Proses:</string>
+    <string name="using_software_or_tools_to_attain_root_access">Gebruik sagteware of gereedskap om worteltoegang te verkry.</string>
+    <string name="implications">Implikasies:</string>
+    <string name="ability_to_modify_system_files_install_custom_roms_and_use_root_only_apps">Vermoë om stelsellêers te verander, pasgemaakte ROMs te installeer en slegs worteltoepassings te gebruik.</string>
+    <string name="considerations">Oorwegings:</string>
+    <string name="researching_device_compatibility_and_following_instructions_carefully">Ondersoek toestelversoenbaarheid en volg instruksies noukeurig.</string>
+    <string name="data_recovery_pro">DATA HERSTEL PRO</string>
+    <string name="a_data_recovery_application_is_designed_to_assist_users_in_retrieving_recently_deleted_media_files_upon_initiating_a_scan_the_application_diligently_examines_the_storage_device_and_retrieves_all_available_files_including_both_deleted_and_non_deleted_ones_subsequently_the_user_is_required_to_identify_and_locate_the_specific_deleted_file_from_the_comprehensive_list_of_retrieved_files_this_process_necessitates_thorough_scrutiny_to_pinpoint_and_recover_the_desired_deleted_media_item_among_the_entirety_of_retrieved_data">n Datahersteltoepassing is ontwerp om gebruikers te help om medialêers wat onlangs geskrap is, te herwin. Wanneer n skandering begin word, ondersoek die toepassing die stoortoestel noukeurig en haal alle beskikbare lêers op, insluitend beide geskrap en nie-geskrap. Vervolgens word van die gebruiker vereis om die spesifieke geskrap lêer uit die omvattende lys van opgespoorde lêers te identifiseer en op te spoor. Hierdie proses vereis deeglike ondersoek om die verlangde geskrapte media-item te identifiseer en te herstel onder die geheel van opgespoorde data.</string>
+    <string name="next">Volgende</string>
+    <string name="prev">Vorige</string>
+    <string name="done">Klaar</string>
+    <string name="step_1">Stap 1</string>
+    <string name="go_to_the_recover_tab_and_choose_the_category_to_recover">Gaan na die Herstel-oortjie en kies die kategorie om te herstel.</string>
+    <string name="step_2">Stap 2</string>
+    <string name="step_3">Stap 3</string>
+    <string name="long_press_to_select_multiple_files_then_tap_recover_to_save">Druk lank om veelvuldige lêers te kies, en tik dan Herstel om te stoor.</string>
+    <string name="tap_image_to_preview_recover_or_delete_individually">Tik prent om individueel te voorbeskou, te herstel of uit te vee.</string>
+    <string name="let_s_start">Kom ons Begin</string>
+    <string name="start_like_a_pro">BEGIN SOOS N PRO</string>
+    <string name="unlock_all_features">Ontsluit alle kenmerke</string>
+    <string name="basic">Basies</string>
+    <string name="premium">Premie</string>
+    <string name="gallery_recovery">Galery herstel</string>
+    <string name="themes">Temas</string>
+    <string name="cloud_backup">Wolk-rugsteun</string>
+    <string name="no_ads">Geen advertensies</string>
+    <string name="remove_duplicate_files">Verwyder duplikaatlêers</string>
+    <string name="pkr_16_2000_year_after_free_7_day_trial">PKR 16,2000/jaar na GRATIS 7 dae proeflopie</string>
+    <string name="start_free_trial">Begin GRATIS proeflopie</string>
+    <string name="select_language">Kies taal</string>
+    <string name="continueee">Aanhou</string>
+    <string name="duplicate">Dupliseer</string>
+    <string name="saved_photos">Gestoorde fotos</string>
+    <string name="switchhh">SKAKEL</string>
+    <string name="files_deleted_successfully">Lêers is suksesvol uitgevee..</string>
+    <string name="please_select_language">Kies asseblief taal</string>
+    <string name="watch_ad_to_view_all_recovered_items">Kyk na die advertensie om alle herwonne items te sien</string>
+    <string name="unlock_duplicate_nfile_remover_feature">Ontsluit duplikaat\nFile Remover-kenmerk</string>
+    <string name="this_is_a_premium_feature_but_we_have_a_special_deal_for_you_watch_and_ad_to_unlock_this_feature_or_be_a_premium_member_to_get_all_features">Dit isn premium kenmerk, maar ons hetn spesiale aanbieding vir jou! Kyk na n advertensie om hierdie kenmerk te ontsluit of weesn premium-lid om alle kenmerke te kry.</string>
+    <string name="or">OF</string>
+    <string name="unlimited_access_to_all_premium_tools">Onbeperkte toegang tot alle premium gereedskap</string>
+    <string name="_50_off">50% AF</string>
+    <string name="exit_app">Klik asseblief weer TERUG om af te sluit</string>
+    <string name="click_here_to_view_more_items">Klik hier om meer items te sien</string>
+    <string name="tap_again_to_exit">Tik weer om uit te gaan!</string>
+    <string name="loading_ad">Laai AD</string>
+    <string name="unlock">Ontsluit</string>
+    <string name="storage">Berging</string>
+    <string name="watch_ad_to_view_all_themes">Kyk AD om alle temas te sien</string>
+    <string name="life_time">LEWENSDUUR</string>
+    <string name="billed_once">Een keer gefaktureer</string>
+    <string name="save_50">SPAAR 50%</string>
+    <string name="recover_data">Herwin data</string>
+    <string name="unlock_vault_of_memories">Ontsluit Vault of Memories</string>
+    <string name="recover_pictures_video_audios_and_data_in_all_formats">Herstel prente, video, oudios en data in alle formate</string>
+    <string name="identifying_copies_while_you_take_a_break">Identifiseer kopieë, terwyl jyn breek neem</string>
+    <string name="tap_to_exit">Tik om uit te gaan!</string>
+</resources>

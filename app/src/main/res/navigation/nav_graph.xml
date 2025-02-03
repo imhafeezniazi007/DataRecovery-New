@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/recoverFragment">
+
+    <fragment
+        android:id="@+id/recoverFragment"
+        android:name="com.example.datarecovery.views.fragments.RecoverFragment"
+        android:label="fragment_recover"
+        tools:layout="@layout/fragment_recover" />
+    <fragment
+        android:id="@+id/backupFragment"
+        android:name="com.example.datarecovery.views.fragments.BackupFragment"
+        android:label="fragment_backup"
+        tools:layout="@layout/fragment_backup" />
+
+    <fragment
+        android:id="@+id/savedFragment"
+        android:name="com.example.datarecovery.views.fragments.SavedFragment"
+        android:label="fragment_saved"
+        tools:layout="@layout/fragment_saved" />
+    <fragment
+        android:id="@+id/duplicateFragment"
+        android:name="com.example.datarecovery.views.fragments.DuplicateFragment"
+        android:label="fragment_duplicate"
+        tools:layout="@layout/fragment_duplicate" >
+        <action
+            android:id="@+id/action_duplicateFragment_to_recoverFragment"
+            app:destination="@id/recoverFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/themesFragment"
+        android:name="com.example.datarecovery.views.fragments.ThemesFragment"
+        android:label="fragment_themes"
+        tools:layout="@layout/fragment_themes" />
+</navigation>

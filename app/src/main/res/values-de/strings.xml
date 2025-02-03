@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    0 =========================
+   <string name="app_name">Datenwiederherstellung</string>
+
+
+   <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+
+   <string name="what_is_root">Was ist Root?</string>
+
+   <string name="language">Sprache</string>
+
+   <string name="share">Aktie</string>
+
+   <string name="rate_us">Bewerten Sie uns</string>
+
+   <string name="other_apps">Andere Apps</string>
+
+   <string name="how_to_use">Wie benutzt man?</string>
+
+   <string name="report_a_problem">Ein Problem melden</string>
+
+   <string name="about">Um</string>
+
+   <string name="privacy_policy">Datenschutz-Bestimmungen</string>
+
+   <string name="data_recovery">Datenwiederherstellung</string>
+
+   <string name="recover_images">Bilder wiederherstellen</string>
+
+   <string name="recover_documents">Dokumente wiederherstellen</string>
+
+   <string name="recover_audios">Audios wiederherstellen</string>
+
+   <string name="recover_videos">Videos wiederherstellen</string>
+
+   <string name="saved">Gerettet</string>
+
+   <string name="phone_storage">Handy Speicher</string>
+
+   <string name="clean_up">Aufräumen</string>
+
+   <string name="free_storage">Kostenlose Lagerung</string>
+
+   <string name="used_storage">Gebrauchter Speicher</string>
+
+   <string name="clean_junk">Sauberer Müll</string>
+
+   <string name="clean_up_photos">Bereinigen Sie Fotos</string>
+
+   <string name="backup">Sicherung</string>
+
+   <string name="sign_in">anmelden</string>
+
+   <string name="sign_in_to_google_drive_for_the_data_backup_n_upload_your_restored_data_to_avoid_data_loss">Melden Sie sich für die Datensicherung bei Google Drive an.\nLaden Sie Ihre wiederhergestellten Daten hoch, um Datenverlust zu vermeiden</string>
+
+   <string name="premium_version">Premium-Version</string>
+
+   <string name="scan_images">Bilder scannen</string>
+
+   <string name="scan_audios">Audios scannen</string>
+
+   <string name="scan_vedios">Vedios scannen</string>
+
+   <string name="scan_documents">Dokumente scannen</string>
+
+   <string name="no_item_selected">Kein Element ausgewählt</string>
+
+   <string name="long_press_to_select_an_image">Lange drücken, um ein Bild auszuwählen</string>
+
+   <string name="home">Heim</string>
+
+   <string name="recover">Genesen</string>
+
+   <string name="start_scanning">Beginnen Sie mit dem Scannen</string>
+
+   <string name="clean_up_vedios">Vedios aufräumen</string>
+
+   <string name="saved_images">Gespeicherte Bilder</string>
+
+   <string name="saved_audios">Gespeicherte Audios</string>
+
+   <string name="saved_vedios">Vedios gespeichert</string>
+
+   <string name="saved_documents">Gespeicherte Dokumente</string>
+
+   <string name="recover_image">Bild wiederherstellen</string>
+
+   <string name="delete_permanently">Dauerhaft löschen</string>
+
+   <string name="AUTH_ID">AIzaSyAQg7VQ3YwBW4Gpn1OelvmS6xDqyRAwSJc</string>
+
+   <string name="all_scan">Alle scannen</string>
+
+   <string name="images">Bilder</string>
+
+   <string name="contacts">Kontakte</string>
+
+   <string name="audios">Audios</string>
+
+   <string name="videos">Videos</string>
+
+   <string name="group_no">Gruppennr</string>
+
+   <string name="image_name">Bildname</string>
+
+   <string name="image_size">Bildgröße</string>
+
+   <string name="image_path">Bildpfad</string>
+
+   <string name="no_duplicates_found">Keine Duplikate gefunden!</string>
+
+   <string name="scan_all">Alle scannen</string>
+
+   <string name="delete">Löschen</string>
+
+   <string name="ok">OK</string>
+
+   <string name="total_files_scanned">Gesamtzahl der gescannten Dateien</string>
+
+   <string name="no_files_found">Keine Dateien gefunden.</string>
+
+   <string name="yes">Ja</string>
+
+   <string name="no">NEIN</string>
+
+   <string name="do_you_want_to_delete_junk_files">Möchten Sie Junk-Dateien löschen?</string>
+
+   <string name="clean_junk_files">Junk-Dateien erfolgreich bereinigen.</string>
+
+   <string name="something_went_wrong">Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal...</string>
+
+   <string name="files_scanned">Dateien gescannt</string>
+
+   <string name="files">Dateien</string>
+
+   <string name="audios_found">Audios gefunden</string>
+
+   <string name="files_found">Dateien gefunden</string>
+
+   <string name="allow_permission_storage">Erlauben Sie die Berechtigung für den Speicherzugriff!</string>
+
+   <string name="recoverable_files_found">Wiederherstellbare Dateien gefunden</string>
+
+   <string name="snackbar_text">„Erfolgreich wiederhergestellt\nSpeicherort:/storage/emulated/0/pictures/\nDataRecovery“</string>
+
+   <string name="try_again_later">Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal...</string>
+
+   <string name="no_image_selected">Kein Bild ausgewählt</string>
+
+   <string name="all_files_deleted">Alle Dateien erfolgreich gelöscht</string>
+
+   <string name="no_file_selected">Keine Datei ausgewählt</string>
+
+   <string name="drive_login_error">Anmeldefehler – nicht angemeldet</string>
+
+   <string name="documents_found">Dokumente gefunden</string>
+
+   <string name="files_uploaded">Die Dateien wurden erfolgreich hochgeladen</string>
+
+   <string name="images_found">Bilder gefunden</string>
+
+   <string name="recover_image_successfully">Bild erfolgreich wiederherstellen</string>
+
+   <string name="image_deleted_successfully">Bild erfolgreich gelöscht</string>
+
+   <string name="all_files_recover_successfully">Alle Dateien wurden erfolgreich wiederhergestellt</string>
+
+   <string name="videos_found">Videos gefunden</string>
+
+   <string name="allow_permission_for_read_contacts">Erlauben Sie die Berechtigung zum Lesen von Kontakten!</string>
+
+   <string name="video_completed">Video fertiggestellt</string>
+
+   <string name="error_playing_error">Beim Abspielen des Videos ist ein Fehler aufgetreten!!!</string>
+
+   <string name="group">Gruppe</string>
+
+   <string name="sort_by_size_asc">Nach Größe sortieren (aufsteigend)</string>
+
+   <string name="sort_by_size_desc">Nach Größe sortieren (absteigend)</string>
+
+   <string name="sort_by_date_asc">Nach Datum sortieren (aufsteigend)</string>
+
+   <string name="sort_by_date_desc">Nach Datum sortieren (absteigend)</string>
+
+   <string name="scanning_please_wait">Scannen, bitte warten</string>
+
+   <string name="got_it">HABE ES!</string>
+
+   <string name="delete_hint">Berühren und halten Sie, um mehrere Bilder auszuwählen, und tippen Sie dann auf die Schaltfläche „Löschen“, um sie dauerhaft zu löschen.</string>
+
+
+
+   <string name="recover_deleted_photos_videos">Gelöschte Fotos und Fotos wiederherstellen Videos</string>
+   <string name="version">Ausführung</string>
+   <string name="contact_us">Kontaktiere uns</string>
+   <string name="welcome_to_data_recovery_app_the_ultimate_solution_for_recovering_and_restoring_deleted_photos_videos_audios_and_contacts_on_your_phone_with_our_powerful_app_you_can_effortlessly_retrieve_your_precious_memories_and_important_data_we_also_offer_a_seamless_backup_feature_to_keep_your_content_safe_our_user_friendly_interface_and_advanced_scanning_capabilities_ensure_a_hassle_free_experience_even_for_non_tech_savvy_users_your_privacy_and_security_are_our_top_priorities_and_we_handle_your_data_with_utmost_care_join_our_satisfied_users_and_download_data_recovery_app_today_to_never_worry_about_losing_your_valuable_content_again">Willkommen bei der Data Recovery App, der ultimativen Lösung zum Wiederherstellen gelöschter Fotos, Videos, Audios und Kontakte auf Ihrem Telefon. Mit unserer leistungsstarken App können Sie Ihre wertvollen Erinnerungen und wichtigen Daten mühelos abrufen. Wir bieten außerdem eine nahtlose Backup-Funktion, um Ihre Inhalte zu schützen. Unsere benutzerfreundliche Oberfläche und die erweiterten Scanfunktionen sorgen auch für technisch nicht versierte Benutzer für ein problemloses Erlebnis. Ihre Privatsphäre und Sicherheit haben für uns oberste Priorität und wir gehen mit Ihren Daten mit größter Sorgfalt um. Schließen Sie sich unseren zufriedenen Benutzern an und laden Sie die Datenwiederherstellungs-App noch heute herunter, damit Sie sich nie wieder Sorgen machen müssen, dass Ihre wertvollen Inhalte verloren gehen.</string>
+   <string name="close">Schließen</string>
+   <string name="duplicate_file_remover">Entferner für doppelte Dateien</string>
+   <string name="what_is_rooting">Was ist Rooten?</string>
+   <string name="rooting_involves_gaining_administrative_privileges_on_an_android_device_allowing_users_to_access_and_modify_system_files_and_settings_it_is_typically_achieved_through_the_use_of_specialized_software_or_tools_however_there_is_a_risk_of_root_attempts_failing_resulting_in_the_inability_to_gain_root_access_successfully">Beim Rooten werden Administratorrechte auf einem Android-Gerät erlangt, sodass Benutzer auf Systemdateien und -einstellungen zugreifen und diese ändern können. Dies wird in der Regel durch den Einsatz spezieller Software oder Tools erreicht. Es besteht jedoch das Risiko, dass Root-Versuche fehlschlagen und der Root-Zugriff nicht erfolgreich erfolgen kann.</string>
+   <string name="benefits">Vorteile:</string>
+   <string name="unlocking_advanced_customization_and_system_level_access">Ermöglichen Sie erweiterte Anpassungen und Zugriff auf Systemebene.</string>
+   <string name="risks">Risiken:</string>
+   <string name="potential_for_security_vulnerabilities_and_voiding_device_warranty">Mögliche Sicherheitslücken und der Erlöschen der Gerätegarantie.</string>
+   <string name="process">Verfahren:</string>
+   <string name="using_software_or_tools_to_attain_root_access">Verwenden von Software oder Tools, um Root-Zugriff zu erhalten.</string>
+   <string name="implications">Implikationen:</string>
+   <string name="ability_to_modify_system_files_install_custom_roms_and_use_root_only_apps">Möglichkeit, Systemdateien zu ändern, benutzerdefinierte ROMs zu installieren und Nur-Root-Apps zu verwenden.</string>
+   <string name="considerations">Überlegungen:</string>
+   <string name="researching_device_compatibility_and_following_instructions_carefully">Informieren Sie sich über die Gerätekompatibilität und befolgen Sie die Anweisungen sorgfältig.</string>
+   <string name="data_recovery_pro">DATENERWIEDERHERSTELLUNG PRO</string>
+   <string name="a_data_recovery_application_is_designed_to_assist_users_in_retrieving_recently_deleted_media_files_upon_initiating_a_scan_the_application_diligently_examines_the_storage_device_and_retrieves_all_available_files_including_both_deleted_and_non_deleted_ones_subsequently_the_user_is_required_to_identify_and_locate_the_specific_deleted_file_from_the_comprehensive_list_of_retrieved_files_this_process_necessitates_thorough_scrutiny_to_pinpoint_and_recover_the_desired_deleted_media_item_among_the_entirety_of_retrieved_data">Eine Datenwiederherstellungsanwendung soll Benutzer beim Wiederherstellen kürzlich gelöschter Mediendateien unterstützen. Beim Einleiten eines Scans untersucht die Anwendung sorgfältig das Speichergerät und ruft alle verfügbaren Dateien ab, einschließlich gelöschter und nicht gelöschter Dateien. Anschließend muss der Benutzer die konkret gelöschte Datei in der umfassenden Liste der abgerufenen Dateien identifizieren und lokalisieren. Dieser Prozess erfordert eine gründliche Prüfung, um das gewünschte gelöschte Medienelement in der Gesamtheit der abgerufenen Daten zu lokalisieren und wiederherzustellen.</string>
+   <string name="next">Nächste</string>
+   <string name="prev">Vorher</string>
+   <string name="done">Erledigt</string>
+   <string name="step_1">Schritt 1</string>
+   <string name="go_to_the_recover_tab_and_choose_the_category_to_recover">Gehen Sie zur Registerkarte „Wiederherstellen“ und wählen Sie die wiederherzustellende Kategorie aus.</string>
+   <string name="step_2">Schritt 2</string>
+   <string name="step_3">Schritt 3</string>
+   <string name="long_press_to_select_multiple_files_then_tap_recover_to_save">Drücken Sie lange, um mehrere Dateien auszuwählen, und tippen Sie dann zum Speichern auf „Wiederherstellen“.</string>
+   <string name="tap_image_to_preview_recover_or_delete_individually">Tippen Sie auf das Bild, um es einzeln in der Vorschau anzuzeigen, wiederherzustellen oder zu löschen.</string>
+   <string name="let_s_start">Lasst uns beginnen</string>
+   <string name="start_like_a_pro">STARTEN SIE WIE EIN PROFI</string>
+   <string name="unlock_all_features">Schalten Sie alle Funktionen frei</string>
+   <string name="basic">Basic</string>
+   <string name="premium">Prämie</string>
+   <string name="gallery_recovery">Galeriewiederherstellung</string>
+   <string name="themes">Themen</string>
+   <string name="cloud_backup">Cloud-Backup</string>
+   <string name="no_ads">Keine Werbung</string>
+   <string name="remove_duplicate_files">Entfernen Sie doppelte Dateien</string>
+   <string name="pkr_16_2000_year_after_free_7_day_trial">16.2000 PKR/Jahr nach 7-tägiger KOSTENLOSER Testversion</string>
+   <string name="start_free_trial">Kostenlos testen</string>
+   <string name="select_language">Sprache auswählen</string>
+   <string name="continueee">Weitermachen</string>
+   <string name="duplicate">Duplikat</string>
+   <string name="saved_photos">Gespeicherte Fotos</string>
+   <string name="switchhh">SCHALTEN</string>
+   <string name="files_deleted_successfully">Dateien erfolgreich gelöscht.</string>
+   <string name="please_select_language">Bitte Sprache auswählen</string>
+   <string name="watch_ad_to_view_all_recovered_items">Sehen Sie sich die Anzeige an, um alle wiederhergestellten Elemente anzuzeigen</string>
+   <string name="unlock_duplicate_nfile_remover_feature">Schalten Sie die Funktion zum Entfernen von Duplikaten\nDateien frei</string>
+   <string name="this_is_a_premium_feature_but_we_have_a_special_deal_for_you_watch_and_ad_to_unlock_this_feature_or_be_a_premium_member_to_get_all_features">Dies ist eine Premium-Funktion, aber wir haben ein besonderes Angebot für Sie! Sehen Sie sich eine Anzeige an, um diese Funktion freizuschalten, oder werden Sie Premium-Mitglied, um alle Funktionen zu nutzen.</string>
+   <string name="or">ODER</string>
+   <string name="unlimited_access_to_all_premium_tools">Unbegrenzter Zugriff auf alle Premium-Tools</string>
+   <string name="_50_off">50% RABATT</string>
+   <string name="exit_app">Bitte klicken Sie erneut auf ZURÜCK, um den Vorgang zu beenden</string>
+   <string name="click_here_to_view_more_items">Klicken Sie hier, um weitere Artikel anzuzeigen</string>
+   <string name="tap_again_to_exit">Tippen Sie erneut, um den Vorgang zu beenden!</string>
+   <string name="loading_ad">AD wird geladen</string>
+   <string name="unlock">Freischalten</string>
+   <string name="storage">Lagerung</string>
+   <string name="watch_ad_to_view_all_themes">Sehen Sie sich AD an, um alle Themen anzuzeigen</string>
+
+   <string name="life_time">LEBENSDAUER</string>
+   <string name="billed_once">Einmal in Rechnung gestellt</string>
+   <string name="save_50">50 % SPAREN</string>
+   <string name="recover_data">Daten wiederherstellen</string>
+   <string name="unlock_vault_of_memories">Schalte den Tresor der Erinnerungen frei</string>
+   <string name="recover_pictures_video_audios_and_data_in_all_formats">Stellen Sie Bilder, Videos, Audios und Daten in allen Formaten wieder her</string>
+   <string name="identifying_copies_while_you_take_a_break">Identifizieren Sie Kopien, während Sie eine Pause machen</string>
+   <string name="tap_to_exit">Zum Beenden tippen!</string>
+</resources>

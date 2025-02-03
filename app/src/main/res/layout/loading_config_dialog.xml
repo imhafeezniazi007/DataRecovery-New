@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rounded_bg"
+    android:backgroundTint="?dialog_bg_color"
+    android:paddingVertical="@dimen/_15sdp"
+    android:paddingHorizontal="@dimen/_22sdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.razzaghimahdi78.dotsloading.circle.LoadingCircleFady
+        android:id="@+id/circleProgress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:dots_color="?dialog_text_color"
+        app:dots_duration="800"
+        app:dots_size="@dimen/_3sdp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/circleProgress"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/_5sdp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:fontFamily="@font/poppins_bold"
+        android:textColor="?dialog_text_color"
+        android:text="@string/loading"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

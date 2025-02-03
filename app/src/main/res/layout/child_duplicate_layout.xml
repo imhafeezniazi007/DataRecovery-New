@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="?duplicate_item_color"
+    android:layout_marginTop="@dimen/_5sdp"
+    android:background="@drawable/duplicate_rounded_bg"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        app:cardCornerRadius="20dp"
+        app:cardUseCompatPadding="true"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:paddingVertical="@dimen/_5sdp"
+            android:paddingHorizontal="@dimen/_10sdp"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/thumbnail"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/ic_contacts_logo"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/fileName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="40dp"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="@string/image_name"
+                android:textColor="?custom_black"
+                android:textSize="@dimen/_10ssp"
+                android:fontFamily="@font/poppins_regular"
+                app:layout_constraintBottom_toTopOf="@+id/fileSize"
+                app:layout_constraintEnd_toStartOf="@+id/checkbox"
+                app:layout_constraintStart_toEndOf="@id/thumbnail"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/fileSize"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="@string/image_size"
+                android:textColor="?custom_black"
+                android:textSize="@dimen/_10ssp"
+                android:fontFamily="@font/poppins_regular"
+                app:layout_constraintBottom_toTopOf="@+id/filePath"
+                app:layout_constraintEnd_toEndOf="@+id/fileName"
+                app:layout_constraintStart_toStartOf="@id/fileName"
+                app:layout_constraintTop_toBottomOf="@+id/fileName" />
+
+            <TextView
+                android:id="@+id/filePath"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="@string/image_path"
+                android:textColor="?custom_black"
+                android:textSize="@dimen/_8ssp"
+                android:fontFamily="@font/poppins_regular"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/fileSize"
+                app:layout_constraintStart_toStartOf="@id/fileName"
+                app:layout_constraintTop_toBottomOf="@+id/fileSize" />
+
+            <CheckBox
+               android:id="@+id/checkbox"
+                android:button="@drawable/checkbox_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:paddingHorizontal="4dp"
+                android:buttonTint="?dialog_text_color"
+                android:src="@drawable/unchecked"
+                app:layout_constraintBottom_toBottomOf="@id/thumbnail"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@id/thumbnail" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

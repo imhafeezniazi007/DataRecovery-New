@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    0 =========================
+    <string name="app_name">Datagendannelse</string>
+
+
+    <string name="hello_blank_fragment">Hej tomt fragment</string>
+
+    <string name="what_is_root">Hvad er root?</string>
+
+    <string name="language">Sprog</string>
+
+    <string name="share">Del</string>
+
+    <string name="rate_us">Bedøm os</string>
+
+    <string name="other_apps">Andre apps</string>
+
+    <string name="how_to_use">Hvordan bruges?</string>
+
+    <string name="report_a_problem">Rapporter et problem</string>
+
+    <string name="about">Om</string>
+
+    <string name="privacy_policy">Fortrolighedspolitik</string>
+
+    <string name="data_recovery">Datagendannelse</string>
+
+    <string name="recover_images">Gendan billeder</string>
+
+    <string name="recover_documents">Gendan dokumenter</string>
+
+    <string name="recover_audios">Gendan lyd</string>
+
+    <string name="recover_videos">Gendan videoer</string>
+
+    <string name="saved">Gemt</string>
+
+    <string name="phone_storage">Telefonopbevaring</string>
+
+    <string name="clean_up">Ryd op</string>
+
+    <string name="free_storage">Gratis opbevaring</string>
+
+    <string name="used_storage">Brugt opbevaring</string>
+
+    <string name="clean_junk">Rens skrammel</string>
+
+    <string name="clean_up_photos">Ryd op i fotos</string>
+
+    <string name="backup">Backup</string>
+
+    <string name="sign_in">Log ind</string>
+
+    <string name="sign_in_to_google_drive_for_the_data_backup_n_upload_your_restored_data_to_avoid_data_loss">Log ind på Google Drev for at få datasikkerhedskopieringen.\nUpload dine gendannede data for at undgå tab af data</string>
+
+    <string name="premium_version">Premium version</string>
+
+    <string name="scan_images">Scan billeder</string>
+
+    <string name="scan_audios">Scan lyd</string>
+
+    <string name="scan_vedios">Scan Vedios</string>
+
+    <string name="scan_documents">Scan dokumenter</string>
+
+    <string name="no_item_selected">Intet element valgt</string>
+
+    <string name="long_press_to_select_an_image">Tryk længe for at vælge et billede</string>
+
+    <string name="home">Hjem</string>
+
+    <string name="recover">Gendanne</string>
+
+    <string name="start_scanning">Start scanningen</string>
+
+    <string name="clean_up_vedios">Ryd op i videoer</string>
+
+    <string name="saved_images">Gemte billeder</string>
+
+    <string name="saved_audios">Gemte lydfiler</string>
+
+    <string name="saved_vedios">Gemte Vedios</string>
+
+    <string name="saved_documents">Gemte dokumenter</string>
+
+    <string name="recover_image">Gendan billede</string>
+
+    <string name="delete_permanently">Slet permanent</string>
+
+    <string name="AUTH_ID">AIzaSyAQg7VQ3YwBW4Gpn1OelvmS6xDqyRAwSJc</string>
+
+    <string name="all_scan">Alle Scan</string>
+
+    <string name="images">Billeder</string>
+
+    <string name="contacts">Kontaktpersoner</string>
+
+    <string name="audios">Lyd</string>
+
+    <string name="videos">Videoer</string>
+
+    <string name="group_no">Gruppe nr</string>
+
+    <string name="image_name">Billednavn</string>
+
+    <string name="image_size">Billedestørrelse</string>
+
+    <string name="image_path">Billedsti</string>
+
+    <string name="no_duplicates_found">Ingen dubletter fundet!</string>
+
+    <string name="scan_all">Scan alle</string>
+
+    <string name="delete">Slet</string>
+
+    <string name="ok">Okay</string>
+
+    <string name="total_files_scanned">Samlet antal scannede filer</string>
+
+    <string name="no_files_found">Ingen filer fundet.</string>
+
+    <string name="yes">Ja</string>
+
+    <string name="no">Ingen</string>
+
+    <string name="do_you_want_to_delete_junk_files">Vil du slette uønskede filer?</string>
+
+    <string name="clean_junk_files">Rens uønskede filer med succes.</string>
+
+    <string name="something_went_wrong">Noget gik galt. Prøv igen senere...</string>
+
+    <string name="files_scanned">Filer scannet</string>
+
+    <string name="files">Filer</string>
+
+    <string name="audios_found">Lyd fundet</string>
+
+    <string name="files_found">Filer fundet</string>
+
+    <string name="allow_permission_storage">Tillad tilladelse til lageradgang!</string>
+
+    <string name="recoverable_files_found">Gendanbare filer fundet</string>
+
+    <string name="snackbar_text">"Gendannet med succes\nPlacering:/storage/emulated/0/pictures/\nDataRecovery"</string>
+
+    <string name="try_again_later">Noget gik galt. Prøv igen senere...</string>
+
+    <string name="no_image_selected">Intet billede valgt</string>
+
+    <string name="all_files_deleted">Alle filer blev slettet</string>
+
+    <string name="no_file_selected">Ingen fil valgt</string>
+
+    <string name="drive_login_error">Login fejl - ikke logget ind</string>
+
+    <string name="documents_found">Dokumenter fundet</string>
+
+    <string name="files_uploaded">Filer er blevet uploadet</string>
+
+    <string name="images_found">Billeder fundet</string>
+
+    <string name="recover_image_successfully">Gendan billede med succes</string>
+
+    <string name="image_deleted_successfully">Billedet blev slettet</string>
+
+    <string name="all_files_recover_successfully">Alle filer gendannes med succes</string>
+
+    <string name="videos_found">Videoer fundet</string>
+
+    <string name="allow_permission_for_read_contacts">Tillad tilladelse til at læse kontakter!</string>
+
+    <string name="video_completed">Video færdig</string>
+
+    <string name="error_playing_error">Der opstod en fejl under afspilning af video !!!</string>
+
+    <string name="group">Gruppe</string>
+
+    <string name="sort_by_size_asc">Sorter efter størrelse (asc)</string>
+
+    <string name="sort_by_size_desc">Sorter efter størrelse (desc)</string>
+
+    <string name="sort_by_date_asc">Sorter efter dato (asc)</string>
+
+    <string name="sort_by_date_desc">Sorter efter dato (desc)</string>
+
+    <string name="scanning_please_wait">Scanner, vent venligst</string>
+
+    <string name="got_it">FORSTÅET!</string>
+
+    <string name="delete_hint">Tryk og hold nede for at vælge flere billeder, og tryk derefter på sletknappen for at slette dem permanent.</string>
+
+
+
+    <string name="recover_deleted_photos_videos">Gendan slettede billeder &amp; Videoer</string>
+    <string name="version">Version</string>
+    <string name="contact_us">Kontakt os</string>
+    <string name="welcome_to_data_recovery_app_the_ultimate_solution_for_recovering_and_restoring_deleted_photos_videos_audios_and_contacts_on_your_phone_with_our_powerful_app_you_can_effortlessly_retrieve_your_precious_memories_and_important_data_we_also_offer_a_seamless_backup_feature_to_keep_your_content_safe_our_user_friendly_interface_and_advanced_scanning_capabilities_ensure_a_hassle_free_experience_even_for_non_tech_savvy_users_your_privacy_and_security_are_our_top_priorities_and_we_handle_your_data_with_utmost_care_join_our_satisfied_users_and_download_data_recovery_app_today_to_never_worry_about_losing_your_valuable_content_again">Velkommen til Data Recovery App, den ultimative løsning til at gendanne og gendanne slettede fotos, videoer, lydbånd og kontakter på din telefon. Med vores kraftfulde app kan du ubesværet hente dine dyrebare minder og vigtige data. Vi tilbyder også en problemfri sikkerhedskopieringsfunktion for at holde dit indhold sikkert. Vores brugervenlige grænseflade og avancerede scanningsfunktioner sikrer en problemfri oplevelse, selv for ikke-teknologikyndige brugere. Dit privatliv og sikkerhed er vores topprioriteter, og vi håndterer dine data med største omhu. Slut dig til vores tilfredse brugere og download Data Recovery-appen i dag for aldrig at bekymre dig om at miste dit værdifulde indhold igen.</string>
+    <string name="close">Tæt</string>
+    <string name="duplicate_file_remover">Duplicate File Remover</string>
+    <string name="what_is_rooting">Hvad er rooting?</string>
+    <string name="rooting_involves_gaining_administrative_privileges_on_an_android_device_allowing_users_to_access_and_modify_system_files_and_settings_it_is_typically_achieved_through_the_use_of_specialized_software_or_tools_however_there_is_a_risk_of_root_attempts_failing_resulting_in_the_inability_to_gain_root_access_successfully">Rooting involverer at få administrative rettigheder på en Android-enhed, hvilket giver brugerne mulighed for at få adgang til og ændre systemfiler og indstillinger. Det opnås typisk ved brug af specialiseret software eller værktøjer. Der er dog en risiko for, at root-forsøg mislykkes, hvilket resulterer i manglende evne til at få root-adgang med succes.</string>
+    <string name="benefits">Fordele:</string>
+    <string name="unlocking_advanced_customization_and_system_level_access">Låser op for avanceret tilpasning og adgang på systemniveau.</string>
+    <string name="risks">Risici:</string>
+    <string name="potential_for_security_vulnerabilities_and_voiding_device_warranty">Potentiale for sikkerhedssårbarheder og annullering af enhedsgaranti.</string>
+    <string name="process">Behandle:</string>
+    <string name="using_software_or_tools_to_attain_root_access">Brug af software eller værktøjer til at opnå root-adgang.</string>
+    <string name="implications">Implikationer:</string>
+    <string name="ability_to_modify_system_files_install_custom_roms_and_use_root_only_apps">Mulighed for at ændre systemfiler, installere brugerdefinerede ROM\'er og bruge root-only apps.</string>
+    <string name="considerations">Overvejelser:</string>
+    <string name="researching_device_compatibility_and_following_instructions_carefully">Undersøg enhedens kompatibilitet og følg instruktionerne nøje.</string>
+    <string name="data_recovery_pro">DATAGENDANNELSE PRO</string>
+    <string name="a_data_recovery_application_is_designed_to_assist_users_in_retrieving_recently_deleted_media_files_upon_initiating_a_scan_the_application_diligently_examines_the_storage_device_and_retrieves_all_available_files_including_both_deleted_and_non_deleted_ones_subsequently_the_user_is_required_to_identify_and_locate_the_specific_deleted_file_from_the_comprehensive_list_of_retrieved_files_this_process_necessitates_thorough_scrutiny_to_pinpoint_and_recover_the_desired_deleted_media_item_among_the_entirety_of_retrieved_data">Et datagendannelsesprogram er designet til at hjælpe brugere med at hente nyligt slettede mediefiler. Når en scanning startes, undersøger applikationen omhyggeligt lagerenheden og henter alle tilgængelige filer, inklusive både slettede og ikke-slettede. Efterfølgende skal brugeren identificere og lokalisere den specifikke slettede fil fra den omfattende liste over hentede filer. Denne proces nødvendiggør en grundig undersøgelse for at lokalisere og gendanne det ønskede slettede medieelement blandt alle de hentede data.</string>
+    <string name="next">Næste</string>
+    <string name="prev">Forrige</string>
+    <string name="done">Færdig</string>
+    <string name="step_1">Trin 1</string>
+    <string name="go_to_the_recover_tab_and_choose_the_category_to_recover">Gå til fanen Gendan og vælg den kategori, du vil gendanne.</string>
+    <string name="step_2">Trin 2</string>
+    <string name="step_3">Trin 3</string>
+    <string name="long_press_to_select_multiple_files_then_tap_recover_to_save">Tryk længe for at vælge flere filer, og tryk derefter på Gendan for at gemme.</string>
+    <string name="tap_image_to_preview_recover_or_delete_individually">Tryk på billedet for at få vist, gendanne eller slette individuelt.</string>
+    <string name="let_s_start">Lad os begynde</string>
+    <string name="start_like_a_pro">START SOM EN PRO</string>
+    <string name="unlock_all_features">Lås op for alle funktioner</string>
+    <string name="basic">Grundlæggende</string>
+    <string name="premium">Præmie</string>
+    <string name="gallery_recovery">Galleri Gendannelse</string>
+    <string name="themes">Temaer</string>
+    <string name="cloud_backup">Cloud Backup</string>
+    <string name="no_ads">Ingen annoncer</string>
+    <string name="remove_duplicate_files">Fjern dublerede filer</string>
+    <string name="pkr_16_2000_year_after_free_7_day_trial">PKR 16.2000/år efter GRATIS 7 dages prøveperiode</string>
+    <string name="start_free_trial">Start GRATIS prøveperiode</string>
+    <string name="select_language">Vælg sprog</string>
+    <string name="continueee">Blive ved</string>
+    <string name="duplicate">Duplikere</string>
+    <string name="saved_photos">Gemte billeder</string>
+    <string name="switchhh">KONTAKT</string>
+    <string name="files_deleted_successfully">Filer blev slettet..</string>
+    <string name="please_select_language">Vælg venligst sprog</string>
+    <string name="watch_ad_to_view_all_recovered_items">Se annonce for at se alle gendannede genstande</string>
+    <string name="unlock_duplicate_nfile_remover_feature">Lås op for duplikat\nFilfjernerfunktion</string>
+    <string name="this_is_a_premium_feature_but_we_have_a_special_deal_for_you_watch_and_ad_to_unlock_this_feature_or_be_a_premium_member_to_get_all_features">Dette er en premium-funktion, men vi har et særligt tilbud til dig! Se en annonce for at låse op for denne funktion, eller vær premium-medlem for at få alle funktioner.</string>
+    <string name="or">ELLER</string>
+    <string name="unlimited_access_to_all_premium_tools">Ubegrænset adgang til alle premium-værktøjer</string>
+    <string name="_50_off">50 % RABAT</string>
+    <string name="exit_app">Klik venligst på TILBAGE igen for at afslutte</string>
+    <string name="click_here_to_view_more_items">Klik her for at se flere varer</string>
+    <string name="tap_again_to_exit">Tryk igen for at afslutte!</string>
+    <string name="loading_ad">Indlæser AD</string>
+    <string name="unlock">Lås op</string>
+    <string name="storage">Opbevaring</string>
+    <string name="watch_ad_to_view_all_themes">Se AD for at se alle temaer</string>
+
+    <string name="life_time">LIVSTID</string>
+    <string name="billed_once">Faktureret én gang</string>
+    <string name="save_50">SPAR 50 %</string>
+    <string name="recover_data">Gendan data</string>
+    <string name="unlock_vault_of_memories">Lås op Vault of Memories</string>
+    <string name="recover_pictures_video_audios_and_data_in_all_formats">Gendan billeder, video, lyd og data i alle formater</string>
+    <string name="identifying_copies_while_you_take_a_break">Identifikation af kopier, mens du holder pause</string>
+    <string name="tap_to_exit">Tryk for at afslutte!</string>
+</resources>

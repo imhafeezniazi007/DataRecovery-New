@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?bg_gradient"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".views.fragments.ContactsFragment">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/duplicateRV"
+        android:layout_width="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/deletelayout"
+        android:layout_marginVertical="@dimen/_5sdp"/>
+    <TextView
+        android:id="@+id/noTV"
+        android:visibility="gone"
+        android:text="@string/no_duplicates_found"
+        android:layout_width="wrap_content"
+        android:textColor="?custom_black"
+        android:textSize="@dimen/_12ssp"
+        android:fontFamily="@font/poppins_bold"
+        android:elevation="@dimen/_2sdp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@id/duplicateRV"
+        app:layout_constraintBottom_toBottomOf="@id/duplicateRV"
+        app:layout_constraintStart_toStartOf="@id/duplicateRV"
+        app:layout_constraintEnd_toEndOf="@id/duplicateRV"/>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/deletelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_20sdp"
+        android:background="@drawable/rounded_bg"
+        android:backgroundTint="?button_color"
+        android:paddingVertical="@dimen/_10sdp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_bold"
+            android:gravity="center"
+            android:text="@string/delete"
+            android:textColor="?button_text_color"
+            android:textSize="@dimen/_10ssp"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

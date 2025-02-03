@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/rounded_bg"
+    android:backgroundTint="#D2C7C2"
+    android:padding="@dimen/_10sdp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/titleTV"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/_8sdp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/cancelIV"
+        android:text="name"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_12ssp"
+        android:fontFamily="@font/poppins_bold"/>
+    <TextView
+        android:id="@+id/modifiedTV"
+        android:layout_width="0dp"
+        app:layout_constraintEnd_toStartOf="@id/cancelIV"
+        android:layout_marginEnd="@dimen/_5sdp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/titleTV"
+        app:layout_constraintStart_toStartOf="parent"
+        android:text="name"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp"
+        android:fontFamily="@font/poppins_regular"/>
+
+    <ImageView
+        android:id="@+id/cancelIV"
+        android:layout_width="@dimen/_20sdp"
+        android:layout_height="@dimen/_20sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/titleTV"
+        app:layout_constraintBottom_toBottomOf="@id/modifiedTV"
+        android:src="@drawable/ic_close_image"/>
+
+    <ImageView
+        android:id="@+id/previewIV"
+        android:layout_width="@dimen/_120sdp"
+        android:layout_height="@dimen/_120sdp"
+        android:src="@drawable/rounded_bg"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cancelIV"
+        android:layout_marginTop="@dimen/_25sdp"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/recoverBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="?button_text_color"
+        android:text="@string/recover_image"
+        android:background="@drawable/rounded_bg"
+        android:paddingVertical="@dimen/_5sdp"
+        android:fontFamily="@font/poppins_bold"
+        android:layout_marginTop="@dimen/_25sdp"
+        app:layout_constraintTop_toBottomOf="@+id/previewIV"
+        android:textColor="?button_color"
+        android:layout_marginHorizontal="@dimen/_15sdp"
+        android:textSize="@dimen/_10ssp"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/deleteBtnn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/red"
+        android:text="@string/delete_permanently"
+        android:background="@drawable/rounded_bg"
+        android:paddingVertical="@dimen/_5sdp"
+        android:fontFamily="@font/poppins_bold"
+        android:layout_marginTop="@dimen/_15sdp"
+        app:layout_constraintTop_toBottomOf="@+id/recoverBtn"
+        android:textColor="@color/white"
+        android:layout_marginHorizontal="@dimen/_15sdp"
+        android:textSize="@dimen/_10ssp"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

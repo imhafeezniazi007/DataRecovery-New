@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_height="wrap_content">
+    <RadioGroup
+        android:id="@+id/rdGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/ascSizeRd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sort_by_size_asc"
+            android:textSize="@dimen/_12ssp"
+            android:layout_margin="@dimen/_5sdp"
+            android:fontFamily="@font/poppins_regular"/>
+        <RadioButton
+            android:id="@+id/descSizeRd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sort_by_size_desc"
+            android:textSize="@dimen/_12ssp"
+            android:layout_margin="@dimen/_5sdp"
+            android:fontFamily="@font/poppins_regular"/>
+        <RadioButton
+            android:id="@+id/ascDateRd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sort_by_date_asc"
+            android:textSize="@dimen/_12ssp"
+            android:layout_margin="@dimen/_5sdp"
+            android:fontFamily="@font/poppins_regular"/>
+        <RadioButton
+            android:id="@+id/descDateRd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sort_by_date_desc"
+            android:checked="true"
+            android:layout_margin="@dimen/_5sdp"
+            android:textSize="@dimen/_12ssp"
+            android:fontFamily="@font/poppins_regular"/>
+    </RadioGroup>
+
+
+</LinearLayout>

@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "774438413105",
+    "project_id": "data-recovery-apps-yard-inc",
+    "storage_bucket": "data-recovery-apps-yard-inc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774438413105:android:e6d808f1be6043a05ec610",
+        "android_client_info": {
+          "package_name": "com.file.recovery.restore.deleted.photos.videos.audio.contacts.documents.songs.remove.duplicate.files.deep.scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774438413105-20f37hg872joedoavr2djb9fqmrapblr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.file.recovery.restore.deleted.photos.videos.audio.contacts.documents.songs.remove.duplicate.files.deep.scan",
+            "certificate_hash": "e331df3ac5d23ce25930e5aa7672282ce1a47237"
+          }
+        },
+        {
+          "client_id": "774438413105-f2quudq79ud2efub46se2a852pqffpha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.file.recovery.restore.deleted.photos.videos.audio.contacts.documents.songs.remove.duplicate.files.deep.scan",
+            "certificate_hash": "980fac684b1b8f0d38c68b1462f80d945d90c98e"
+          }
+        },
+        {
+          "client_id": "774438413105-3hqvho6cqhr1ib71vbf5cs4pf0uahg3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByyg9QBdRYwwUV-DFiDmEWJW9xmygvKdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774438413105-3hqvho6cqhr1ib71vbf5cs4pf0uahg3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5123894371459079~8844623459"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774438413105:android:7f22065f32f43b4b5ec610",
+        "android_client_info": {
+          "package_name": "com.file.recovery.restore.deleted.photos.videos.audio.contacts.documents.songs.remove.duplicate.files.deep.scanall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774438413105-5hol9s3gl4f2cscs521o30p7vljigbci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.file.recovery.restore.deleted.photos.videos.audio.contacts.documents.songs.remove.duplicate.files.deep.scanall",
+            "certificate_hash": "904e0de9c52461a71d6a90975bd7e08bed0a79b4"
+          }
+        },
+        {
+          "client_id": "774438413105-3hqvho6cqhr1ib71vbf5cs4pf0uahg3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByyg9QBdRYwwUV-DFiDmEWJW9xmygvKdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774438413105-3hqvho6cqhr1ib71vbf5cs4pf0uahg3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

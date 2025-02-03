@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">استعادة البيانات</string>
+
+
+    <string name="hello_blank_fragment">مرحبا جزء فارغ</string>
+
+    <string name="what_is_root">ما هو الجذر؟</string>
+
+    <string name="language">لغة</string>
+
+    <string name="share">يشارك</string>
+
+    <string name="rate_us">قيمنا</string>
+
+    <string name="other_apps">تطبيقات أخرى</string>
+
+    <string name="how_to_use">كيف تستعمل؟</string>
+
+    <string name="report_a_problem">الإبلاغ عن مشكلة</string>
+
+    <string name="about">عن</string>
+
+    <string name="privacy_policy">سياسة الخصوصية</string>
+
+    <string name="data_recovery">استعادة البيانات</string>
+
+    <string name="recover_images">استعادة الصور</string>
+
+    <string name="recover_documents">استعادة المستندات</string>
+
+    <string name="recover_audios">استعادة الصوتيات</string>
+
+    <string name="recover_videos">استعادة مقاطع الفيديو</string>
+
+    <string name="saved">أنقذ</string>
+
+    <string name="phone_storage">ذاكرة الهاتف</string>
+
+    <string name="clean_up">تنظيف</string>
+
+    <string name="free_storage">تخزين مجانية</string>
+
+    <string name="used_storage">التخزين المستخدم</string>
+
+    <string name="clean_junk">تنظيف القمامة</string>
+
+    <string name="clean_up_photos">تنظيف الصور</string>
+
+    <string name="backup">دعم</string>
+
+    <string name="sign_in">تسجيل الدخول</string>
+
+    <string name="sign_in_to_google_drive_for_the_data_backup_n_upload_your_restored_data_to_avoid_data_loss">سجّل الدخول إلى Google Drive للحصول على نسخة احتياطية من البيانات. \nقم بتحميل البيانات المستعادة لتجنب فقدان البيانات</string>
+
+    <string name="premium_version">الإصدار المتميز</string>
+
+    <string name="scan_images">مسح الصور</string>
+
+    <string name="scan_audios">مسح الصوتيات</string>
+
+    <string name="scan_vedios">مسح فيديوهات</string>
+
+    <string name="scan_documents">مسح المستندات ضوئيًا</string>
+
+    <string name="no_item_selected">لم يتم تحديد أي عنصر</string>
+
+    <string name="long_press_to_select_an_image">اضغط لفترة طويلة لتحديد صورة</string>
+
+    <string name="home">بيت</string>
+
+    <string name="recover">استعادة</string>
+
+    <string name="start_scanning">ابدأ المسح</string>
+
+    <string name="clean_up_vedios">تنظيف مقاطع الفيديو</string>
+
+    <string name="saved_images">الصور المحفوظة</string>
+
+    <string name="saved_audios">الصوتيات المحفوظة</string>
+
+    <string name="saved_vedios">الفيديوهات المحفوظة</string>
+
+    <string name="saved_documents">المستندات المحفوظة</string>
+
+    <string name="recover_image">استعادة الصورة</string>
+
+    <string name="delete_permanently">الحذف بشكل نهائي</string>
+
+    <string name="AUTH_ID">AIzaSyAQg7VQ3YwBW4Gpn1OelvmS6xDqyRAwSJc</string>
+
+    <string name="all_scan">كل مسح</string>
+
+    <string name="images">الصور</string>
+
+    <string name="contacts">جهات الاتصال</string>
+
+    <string name="audios">صوتيات</string>
+
+    <string name="videos">أشرطة فيديو</string>
+
+    <string name="group_no">رقم المجموعة</string>
+
+    <string name="image_name">اسم الصورة</string>
+
+    <string name="image_size">حجم الصورة</string>
+
+    <string name="image_path">مسار الصورة</string>
+
+    <string name="no_duplicates_found">لم يتم العثور على تكرارات!</string>
+
+    <string name="scan_all">مسح الكل</string>
+
+    <string name="delete">يمسح</string>
+
+    <string name="ok">نعم</string>
+
+    <string name="total_files_scanned">تم فحص إجمالي الملفات</string>
+
+    <string name="no_files_found">لا توجد ملفات.</string>
+
+    <string name="yes">نعم</string>
+
+    <string name="no">لا</string>
+
+    <string name="do_you_want_to_delete_junk_files">هل تريد حذف الملفات غير المرغوب فيها؟</string>
+
+    <string name="clean_junk_files">تنظيف الملفات غير المرغوب فيها بنجاح.</string>
+
+    <string name="something_went_wrong">هناك شئ خاطئ، يرجى المحاولة فى وقت لاحق...</string>
+
+    <string name="files_scanned">تم فحص الملفات</string>
+
+    <string name="files">الملفات</string>
+
+    <string name="audios_found">تم العثور على صوتيات</string>
+
+    <string name="files_found">تم العثور على الملفات</string>
+
+    <string name="allow_permission_storage">السماح بإذن الوصول إلى التخزين!</string>
+
+    <string name="recoverable_files_found">تم العثور على ملفات قابلة للاسترداد</string>
+
+    <string name="snackbar_text">"تم الاسترداد بنجاح \nالموقع: /storage /emulated /0 /pictures /\nDataRecovery"</string>
+
+    <string name="try_again_later">هناك شئ خاطئ، يرجى المحاولة فى وقت لاحق...</string>
+
+    <string name="no_image_selected">لم يتم اختيار أي صورة</string>
+
+    <string name="all_files_deleted">تم حذف جميع الملفات بنجاح</string>
+
+    <string name="no_file_selected">لم يتم اختيار اي ملف</string>
+
+    <string name="drive_login_error">خطأ في تسجيل الدخول - لم يتم تسجيل الدخول</string>
+
+    <string name="documents_found">تم العثور على المستندات</string>
+
+    <string name="files_uploaded">تم تحميل الملفات بنجاح</string>
+
+    <string name="images_found">تم العثور على الصور</string>
+
+    <string name="recover_image_successfully">استعادة الصورة بنجاح</string>
+
+    <string name="image_deleted_successfully">تم حذف الصورة بنجاح</string>
+
+    <string name="all_files_recover_successfully">استعادة جميع الملفات بنجاح</string>
+
+    <string name="videos_found">تم العثور على مقاطع فيديو</string>
+
+    <string name="allow_permission_for_read_contacts">السماح بالإذن لقراءة جهات الاتصال!</string>
+
+    <string name="video_completed">اكتمل الفيديو</string>
+
+    <string name="error_playing_error">حدث خطأ أثناء تشغيل الفيديو !!!</string>
+
+    <string name="group">مجموعة</string>
+
+    <string name="sort_by_size_asc">فرز حسب الحجم (تصاعدي)</string>
+
+    <string name="sort_by_size_desc">الترتيب حسب الحجم (تنازلي)</string>
+
+    <string name="sort_by_date_asc">الترتيب حسب التاريخ (تصاعدي)</string>
+
+    <string name="sort_by_date_desc">الترتيب حسب التاريخ (تنازلي)</string>
+
+    <string name="scanning_please_wait">المسح الرجاء الانتظار</string>
+
+    <string name="got_it">فهمتها!</string>
+
+    <string name="delete_hint">المس مع الاستمرار لتحديد عدة صور ، ثم انقر فوق زر الحذف لحذفها نهائيًا.</string>
+
+
+
+    <string name="recover_deleted_photos_videos">استعادة الصور المحذوفة وأمبير. أشرطة فيديو</string>
+    <string name="version">إصدار</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="welcome_to_data_recovery_app_the_ultimate_solution_for_recovering_and_restoring_deleted_photos_videos_audios_and_contacts_on_your_phone_with_our_powerful_app_you_can_effortlessly_retrieve_your_precious_memories_and_important_data_we_also_offer_a_seamless_backup_feature_to_keep_your_content_safe_our_user_friendly_interface_and_advanced_scanning_capabilities_ensure_a_hassle_free_experience_even_for_non_tech_savvy_users_your_privacy_and_security_are_our_top_priorities_and_we_handle_your_data_with_utmost_care_join_our_satisfied_users_and_download_data_recovery_app_today_to_never_worry_about_losing_your_valuable_content_again">مرحبًا بك في تطبيق Data Recovery ، الحل النهائي لاستعادة واستعادة الصور ومقاطع الفيديو والتسجيلات الصوتية وجهات الاتصال المحذوفة على هاتفك. مع تطبيقنا القوي ، يمكنك استعادة ذكرياتك الثمينة وبياناتك المهمة دون عناء. نقدم أيضًا ميزة نسخ احتياطي سلس للحفاظ على أمان المحتوى الخاص بك. تضمن واجهتنا سهلة الاستخدام وإمكانيات المسح المتقدمة تجربة خالية من المتاعب ، حتى للمستخدمين غير البارعين بالتكنولوجيا. خصوصيتك وأمنك هما أهم أولوياتنا ، ونحن نتعامل مع بياناتك بعناية فائقة. انضم إلى مستخدمينا الراضين وقم بتنزيل تطبيق Data Recovery اليوم حتى لا تقلق أبدًا بشأن فقد المحتوى القيم الخاص بك مرة أخرى.</string>
+    <string name="close">يغلق</string>
+    <string name="duplicate_file_remover">مكرر ملف المزيل</string>
+    <string name="what_is_rooting">ما هو التجذير؟</string>
+    <string name="rooting_involves_gaining_administrative_privileges_on_an_android_device_allowing_users_to_access_and_modify_system_files_and_settings_it_is_typically_achieved_through_the_use_of_specialized_software_or_tools_however_there_is_a_risk_of_root_attempts_failing_resulting_in_the_inability_to_gain_root_access_successfully">يتضمن التجذير الحصول على امتيازات إدارية على جهاز Android ، مما يسمح للمستخدمين بالوصول إلى ملفات النظام والإعدادات وتعديلها. يتم تحقيق ذلك عادةً من خلال استخدام البرامج أو الأدوات المتخصصة. ومع ذلك ، هناك خطر فشل محاولات الجذر ، مما يؤدي إلى عدم القدرة على الوصول إلى الجذر بنجاح.</string>
+    <string name="benefits">فوائد:</string>
+    <string name="unlocking_advanced_customization_and_system_level_access">فتح التخصيص المتقدم والوصول على مستوى النظام.</string>
+    <string name="risks">المخاطر:</string>
+    <string name="potential_for_security_vulnerabilities_and_voiding_device_warranty">احتمال وجود ثغرات أمنية وإلغاء ضمان الجهاز.</string>
+    <string name="process">عملية:</string>
+    <string name="using_software_or_tools_to_attain_root_access">استخدام البرامج أو الأدوات للوصول إلى الجذر.</string>
+    <string name="implications">تداعيات:</string>
+    <string name="ability_to_modify_system_files_install_custom_roms_and_use_root_only_apps">القدرة على تعديل ملفات النظام ، وتثبيت ذاكرة القراءة فقط المخصصة ، واستخدام تطبيقات الجذر فقط.</string>
+    <string name="considerations">الاعتبارات:</string>
+    <string name="researching_device_compatibility_and_following_instructions_carefully">البحث عن توافق الجهاز واتباع التعليمات بعناية.</string>
+    <string name="data_recovery_pro">استعادة البيانات PRO</string>
+    <string name="a_data_recovery_application_is_designed_to_assist_users_in_retrieving_recently_deleted_media_files_upon_initiating_a_scan_the_application_diligently_examines_the_storage_device_and_retrieves_all_available_files_including_both_deleted_and_non_deleted_ones_subsequently_the_user_is_required_to_identify_and_locate_the_specific_deleted_file_from_the_comprehensive_list_of_retrieved_files_this_process_necessitates_thorough_scrutiny_to_pinpoint_and_recover_the_desired_deleted_media_item_among_the_entirety_of_retrieved_data">تم تصميم تطبيق استعادة البيانات لمساعدة المستخدمين في استرداد ملفات الوسائط المحذوفة مؤخرًا. عند بدء الفحص ، يفحص التطبيق بجدية جهاز التخزين ويسترجع جميع الملفات المتاحة ، بما في ذلك الملفات المحذوفة وغير المحذوفة. بعد ذلك ، يُطلب من المستخدم تحديد الملف المحذوف المحدد وتحديد موقعه من القائمة الشاملة للملفات المستردة. تتطلب هذه العملية فحصًا شاملاً لتحديد واستعادة عنصر الوسائط المحذوف المطلوب من بين كامل البيانات المستردة.</string>
+    <string name="next">التالي</string>
+    <string name="prev">السابق</string>
+    <string name="done">منتهي</string>
+    <string name="step_1">الخطوة 1</string>
+    <string name="go_to_the_recover_tab_and_choose_the_category_to_recover">انتقل إلى علامة التبويب الاسترداد واختر الفئة المراد استردادها.</string>
+    <string name="step_2">الخطوة 2</string>
+    <string name="step_3">الخطوه 3</string>
+    <string name="long_press_to_select_multiple_files_then_tap_recover_to_save">اضغط لفترة طويلة لتحديد ملفات متعددة ، ثم انقر فوق استرداد للحفظ.</string>
+    <string name="tap_image_to_preview_recover_or_delete_individually">اضغط على الصورة للمعاينة أو الاسترداد أو الحذف بشكل فردي.</string>
+    <string name="let_s_start">لنبدأ</string>
+    <string name="start_like_a_pro">ابدأ مثل المحترفين</string>
+    <string name="unlock_all_features">افتح جميع الميزات</string>
+    <string name="basic">أساسي</string>
+    <string name="premium">غالي</string>
+    <string name="gallery_recovery">استعادة الصور</string>
+    <string name="themes">ثيمات</string>
+    <string name="cloud_backup">احتياطية سحابة</string>
+    <string name="no_ads">لا اعلانات</string>
+    <string name="remove_duplicate_files">إزالة الملفات المكررة</string>
+    <string name="pkr_16_2000_year_after_free_7_day_trial">162000 روبية باكستانية / سنويًا بعد تجربة مجانية لمدة 7 أيام</string>
+    <string name="start_free_trial">ابدأ الإصدار التجريبي المجاني</string>
+    <string name="select_language">اختار اللغة</string>
+    <string name="continueee">يكمل</string>
+    <string name="duplicate">ينسخ</string>
+    <string name="saved_photos">الصور المحفوظة</string>
+    <string name="switchhh">يُحوّل</string>
+    <string name="files_deleted_successfully">تم حذف الملفات بنجاح ..</string>
+    <string name="please_select_language">الرجاء تحديد اللغة</string>
+    <string name="watch_ad_to_view_all_recovered_items">مشاهدة الإعلان لعرض جميع العناصر المستردة</string>
+    <string name="unlock_duplicate_nfile_remover_feature">فتح مكرر \ n ميزة إزالة الملفات</string>
+    <string name="this_is_a_premium_feature_but_we_have_a_special_deal_for_you_watch_and_ad_to_unlock_this_feature_or_be_a_premium_member_to_get_all_features">هذه ميزة مميزة ولكن لدينا صفقة خاصة لك! شاهد إعلانًا لفتح هذه الميزة أو كن عضوًا متميزًا للحصول على جميع الميزات.</string>
+    <string name="or">أو</string>
+    <string name="unlimited_access_to_all_premium_tools">وصول غير محدود إلى جميع أدوات Premium</string>
+    <string name="_50_off">خصم 50</string>
+    <string name="exit_app">الرجاء النقر فوق "رجوع" مرة أخرى للخروج</string>
+    <string name="click_here_to_view_more_items">انقر هنا لعرض المزيد من العناصر</string>
+    <string name="tap_again_to_exit">انقر مرة أخرى للخروج!</string>
+    <string name="loading_ad">تحميل م</string>
+    <string name="unlock">الغاء القفل</string>
+    <string name="storage">تخزين</string>
+    <string name="watch_ad_to_view_all_themes">مشاهدة ميلادي لعرض جميع المواضيع</string>
+
+    <string name="life_time">حياة</string>
+    <string name="billed_once">دفع مرة واحدة</string>
+    <string name="save_50">وفر٪ 50</string>
+    <string name="recover_data">استعادة البيانات</string>
+    <string name="unlock_vault_of_memories">افتح Vault of Memories</string>
+    <string name="recover_pictures_video_audios_and_data_in_all_formats">استعادة الصور والفيديو والتسجيلات الصوتية والبيانات بجميع التنسيقات</string>
+    <string name="identifying_copies_while_you_take_a_break">تحديد النسخ ، بينما تأخذ قسطًا من الراحة</string>
+    <string name="tap_to_exit">انقر للخروج!</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="custom_white" format="color" />
+    <attr name="custom_blue" format="color" />
+    <attr name="custom_green" format="color" />
+    <attr name="text_color" format="color" />
+    <attr name="button_text_color" format="color" />
+    <attr name="button_color" format="color" />
+    <attr name="bg_tint_color" format="color" />
+    <attr name="custom_a" format="color" />
+    <attr name="custom_b" format="color" />
+    <attr name="custom_c" format="color" />
+    <attr name="custom_d" format="color" />
+    <attr name="custom_black" format="color" />
+    <attr name="backup_bg_color" format="color" />
+    <attr name="bg_color" format="color" />
+    <attr name="dots_color" format="color" />
+    <attr name="selected_dot_color" format="color" />
+    <attr name="custom_e" format="color" />
+    <attr name="delete_icon_tint" format="color" />
+    <attr name="bg_gradient" format="reference" />
+    <attr name="bottom_bg" format="reference" />
+    <attr name="bottom_bg_color" format="color" />
+    <attr name="bottom_item_selected_color" format="color" />
+    <attr name="bottom_item_unselected_color" format="color" />
+    <attr name="bottom_icon_tint" format="reference" />
+    <attr name="bottom_corner_color" format="color" />
+    <attr name="dialog_bg_color" format="color" />
+    <attr name="dialog_text_color" format="color" />
+    <attr name="drawer_icon_tint_color" format="color" />
+    <attr name="tab_text_color" format="color" />
+    <attr name="banner_text_color" format="color" />
+    <attr name="banner_sub_text_color" format="color" />
+    <attr name="banner_bg_color" format="color" />
+    <attr name="duplicate_bg_color" format="color" />
+    <attr name="duplicate_item_color" format="color" />
+    <attr name="checkbox_tint_color" format="color" />
+    <attr name="complete_dialog_bg_color" format="color" />
+    <attr name="complete_text_color" format="color" />
+    <attr name="pro_dialog_bg" format="color" />
+    <attr name="pro_bg" format="color" />
+    <attr name="pro_text_color" format="color" />
+    <attr name="pro_tv_text_color" format="color" />
+
+</resources>

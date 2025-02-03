@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/adloadview"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true">
+
+
+    <com.github.ybq.android.spinkit.SpinKitView
+        android:id="@+id/progress_circularnewad"
+        style="@style/SpinKitView.Large.Circle"
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_80sdp"
+        android:layout_gravity="center"
+        android:padding="@dimen/_8sdp"
+        app:SpinKit_Color="@color/main50"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/headtitle"
+        style="@style/RegularFont"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:text="@string/loading_ad"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_14ssp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/progress_circularnewad" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
